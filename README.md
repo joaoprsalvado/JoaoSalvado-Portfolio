@@ -1,4 +1,4 @@
 # Portfolio        
 > My name is João Salvado
 
-- ola
+- Sou um aspirante em ** QA **. 
