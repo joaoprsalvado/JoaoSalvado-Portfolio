@@ -1,4 +1,5 @@
 🧪 João Salvado — QA Portfolio
+
 📌 About Me | Sobre Mim
 
 EN:
