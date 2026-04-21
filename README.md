@@ -89,9 +89,13 @@ SQL Basics |
 Automation Testing (future goal) |
 
 Contact | Contacto
+
 joaosalvadoehts@gmail.com
+
 +351 964207975
+
 Portugal
+
 
 This portfolio reflects my continuous journey into QA and Software Testing.
 
