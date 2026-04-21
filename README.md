@@ -16,21 +16,26 @@ PT:
 Iniciar uma carreira em Testes de Software e contribuir para a entrega de software fiável e de qualidade através de testes estruturados e aprendizagem contínua.
 
 🧪 Skills | Competências
-Software Testing
-Manual Testing (Exploratory & Functional)
-Test Case Design
-Bug Reporting
-Basic SDLC & STLC
-Agile Methodologies
-Tools & Technologies
-Jira (Basic)
-Postman (Basic)
-SQL (Basic)
+
+Software Testing |
+
+Manual Testing (Exploratory & Functional) |
+Test Case Design |
+Bug Reporting |
+Basic SDLC & STLC |
+Agile Methodologies |
+Tools & Technologies |
+Jira (Basic) |
+XRay (Basic)
+
 Core Strengths
+
 Attention to Detail | Atenção ao Detalhe
 Analytical Thinking | Pensamento Analítico
 Problem-Solving | Resolução de Problemas
+
 📂 Projects | Projetos
+
 🔍 Website Testing Project
 
 EN:
@@ -39,61 +44,54 @@ Performed manual testing on a web application, including exploratory testing, te
 PT:
 Realização de testes manuais numa aplicação web, incluindo testes exploratórios, criação de test cases e reporte de bugs.
 
-👉 View Project
-
-🔗 API Testing (Postman)
-
-EN:
-Practiced API testing using Postman, including request handling and response validation.
-
-PT:
-Prática de testes a APIs utilizando Postman, incluindo envio de pedidos e validação de respostas.
-
-👉 View Project
-
 🐞 Bug Reporting Approach | Abordagem de Reporte de Bugs
 
 EN:
 All bugs are documented with:
 
-Clear description
-Step-by-step reproduction
-Expected vs Actual results
+Clear description |
+Step-by-step reproduction |
+Expected vs Actual results |
 Severity and priority
 
 PT:
 Todos os bugs são documentados com:
 
-Descrição clara
-Passos de reprodução detalhados
-Resultado esperado vs atual
-Classificação de severidade e prioridade
+Descrição clara |
+Passos de reprodução detalhados |
+Resultado esperado vs atual |
+Classificação de severidade e prioridade |
+
 📋 Test Case Design | Criação de Test Cases
 
 EN:
 Test cases are designed to cover:
 
-Positive scenarios
-Negative scenarios
-Edge cases
+Positive scenarios |
+Negative scenarios |
+Edge cases |
 End-to-end user flows
 
 PT:
 Os test cases são criados para cobrir:
 
-Cenários positivos
-Cenários negativos
-Edge cases
-Fluxos completos do utilizador
+Cenários positivos |
+Cenários negativos |
+Edge cases |
+Fluxos completos do utilizador |
+
 🚀 Currently Learning | Em Aprendizagem
-ISTQB Foundation Level
-API Testing (Postman)
-SQL Basics
-Automation Testing (future goal)
+
+ISTQB Foundation Level |
+API Testing (Postman) |
+SQL Basics |
+Automation Testing (future goal) |
+
 📩 Contact | Contacto
 
 📧 joaosalvadoehts@gmail.com
 📍 Portugal
 
 💡 This portfolio reflects my continuous journey into QA and Software Testing.
+
 💡 Este portfólio representa o meu percurso contínuo na área de QA e Testes de Software.
